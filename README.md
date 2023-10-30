@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinicius. 👋
 
-  I'm currently studying Systems Development Analysis at Faculdade Descomplica and learning Javascript/Node.js/SQL/React/and others at Rocketseat with the goal of being a program developer.
+  I'm currently studying Systems Development Analysis and learning Javascript/Node.js/SQL/React/and others with the goal of being a program developer.
 
 - 📫 How to reach me:
 
